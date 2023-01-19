@@ -1,4 +1,5 @@
-## Hello! Welcome to my Github profile. <img src="
+## Hello! Welcome to my Github profile.
+<img align="right" width="250px" src="https://raw.githubusercontent.com/suzanefeitosa/suzanefeitosa/main/octocat-1674159401432.png" style="max-width: 100%;">
 
  My name is Suzane, i'm 22. Nice to meet you :) I'm a Journalist but currently, i'm studying Front-End development.
 
