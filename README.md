@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/suzanefeitosa/suzanefeitosa/output/snake.svg" alt="Snake animation" />
-
 ###
